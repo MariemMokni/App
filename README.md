@@ -1,17 +1,11 @@
-# Jeu Puissance 4
+## E-Learning Application
 
-## Description
-Ce projet est un **jeu Puissance 4** développé en **JavaFX**. Il s'agit d'un jeu à deux joueurs, où chaque joueur dépose à tour de rôle des jetons colorés dans une grille. L'objectif est d'aligner quatre jetons de la même couleur de manière horizontale, verticale ou diagonale.
+**Description**
 
-## Fonctionnalités
-- **Mode Deux Joueurs** : Les joueurs jouent à tour de rôle en déposant leurs jetons dans une grille.
-- **Détection de Victoire** : Le jeu détecte automatiquement lorsqu'un joueur aligne quatre jetons.
-- **Interface Graphique** : Une interface simple et intuitive utilisant JavaFX.
-- **Gestion des Joueurs** : Afficher les joueurs ainsi que leurs scores et le nombre de parties jouées.
-- **Gestion des Parties** : Afficher la liste des parties jouées.
-- **Fichier** : Exporter ou importer des informations sur les joueurs et les parties.
+This project is an E-Learning Application built using PHP. It provides an interactive platform for online learning, offering features such as course management, user authentication, and progress tracking.
 
-## Comment Exécuter le Jeu
-1. **Cloner le dépôt** :
-   ```bash
-   git clone https://github.com/votreutilisateur/puissance4-java.git
+**Technologies Used**
+
+- Backend: PHP
+- Frontend: HTML, CSS, JavaScript
+- Database: MySQL
